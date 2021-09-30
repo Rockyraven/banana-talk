@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
+body{
+    text-align: center;
+    
+    font-family: 'Playfair Display', serif;
+     
+}
+h1{
+    background-color: yellow;
+}
+textarea{
+    font-size: large;
+    border-color: yellow;
+}
+button{
+    border-color: yellow;
+    font-size: large;
+    margin-bottom: 1rem;
+}
+.output{
+   background-color: yellow;
+}
+h2{
+    margin-top: 5rem;
+    background-color: yellow;
+}
+ 
